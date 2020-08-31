@@ -1,7 +1,7 @@
 owners:
   - LupusLeaks YT
   - Ninja
-  - YourUserName
+  - ArticWolf_25
 
 status:
   avatar: CID_017_Athena_Commando_M
@@ -11,7 +11,7 @@ commands:
   prefix:
     - "!"
     - /
-  case_insensitive: true
+  case_insensitive: false
   only_owners: false
 
 friends:
@@ -26,6 +26,6 @@ party:
   join_on_invite: false
   join_if_party_is_empty: true
   
-  add_all_members_on_join: true
+  add_all_members_on_join: false
 
 turn_on: true
